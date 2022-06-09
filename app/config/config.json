@@ -1,0 +1,8 @@
+{
+    "blogit_title": "title of your blog",
+    "blogit_description": "description of your blog portfolio",
+    
+    "modules": {
+        "posts": "true"
+    }
+}
