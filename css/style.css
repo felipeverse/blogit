@@ -1,0 +1,15 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.bg-color {
+    background-color: rgb(0 , 0, 0);
+}
+
+.font-color {
+    color: rgb(255, 255, 255);
+}
+
+.font-color:hover {
+    color: rgb(105,105,105);
+}
